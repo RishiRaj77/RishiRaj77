@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Game development at 360 Bright Media, along with frontend development projects focused on clean UI, performance, and scalability.<br><br>🤝 I’m looking to collaborate on<br>Game development projects, frontend applications, interactive experiences, and tech-driven creative ideas.<br><br>🫶 I’m looking for help with<br>Advanced game mechanics, optimization techniques, scalable architecture, and deeper JavaScript concepts.<br><br>🌱 I’m currently learning<br>Game development workflows, C# scripting, React, and modern frontend best practices.<br><br>💬 Ask me about<br>Game development, frontend development, UI/UX fundamentals, project structuring, and problem-solving approaches.<br><br>⚡ Fun fact<br>I maintain discipline through daily gym training and weekly football sessions, which helps me stay consistent and focused in tech.
+
+🔭 **Currently Working On**  
+Game Development at **360 Bright Media**, while building scalable full-stack web applications using the **MERN Stack** with a strong focus on performance, clean architecture, and intuitive user experiences.
+
+🤝 **Open to Collaborate On**  
+Game development, MERN Stack applications, interactive web experiences, AI-powered solutions, and innovative software projects.
+
+🫶 **Seeking Help With**  
+Advanced game mechanics, performance optimization, scalable system architecture, cloud deployment, and advanced JavaScript concepts.
+
+🌱 **Currently Learning**  
+Advanced game development workflows, C# programming, the **MERN Stack**, backend architecture, and software design patterns.
+
+💬 **Ask Me About**  
+Game Development, MERN Stack Development, C#, JavaScript, REST APIs, UI/UX principles, software architecture, and problem-solving.
+
+⚡ **Fun Fact**  
+I believe consistency drives success. Regular gym training and weekly football sessions help me stay disciplined, focused, and motivated—both in life and in software development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ezywithrishii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezywithrishii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ezywithrishii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishirajdubey72@gmail.com) 
