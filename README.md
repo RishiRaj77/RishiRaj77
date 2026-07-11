@@ -21,5 +21,11 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRaj77&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RishiRaj77&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
