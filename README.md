@@ -34,6 +34,7 @@ I believe consistency drives success. Regular gym training and weekly football s
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RishiRaj77/RishiRaj77/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RishiRaj77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RishiRaj77&theme=dark&hide_border=false)<br/>
